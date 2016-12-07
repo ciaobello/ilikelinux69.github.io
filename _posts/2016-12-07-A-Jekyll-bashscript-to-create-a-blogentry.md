@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Jekyll bashscript to create a blogentry
+date:
 ---
 
 Smal script to atomatize a Jekyll post in the terminal with bash.

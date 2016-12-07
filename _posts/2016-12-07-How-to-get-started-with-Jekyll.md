@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to get started with Jekyll
+date:
 ---
 
 Starting with Jekyll made easy.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I Like Linux is online!
+date: 2016-12-07 13:00
 ---
 
 We are online now

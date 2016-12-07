@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opensource metaphor "Jose Bonilla"
+date: 2016-12-07 14:00
 ---
 
 Metaphor supermarket vs. restaurant

@@ -66,6 +66,7 @@ echo " file_name: $jekyll_date-${title// /-}"
 # creates a file with the syntax of jekyll
 > "$file_name.md"
 
+# creaing the front matter, exerp & blog-text
 echo "---" >> "$file_name.md"
 echo "layout: post" >> "$file_name.md"
 echo "title: $title" >> "$file_name.md"

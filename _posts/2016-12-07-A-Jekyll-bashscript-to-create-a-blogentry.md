@@ -21,9 +21,10 @@ To copy the script content in to the file i like to use nano.
 
 # creates variable "jekyll_date" in form off (2016-12-2)
 jekyll_date=$(date +"%F")
+jekyll_date_time=$(date +"%F %H:%M")
 
 # prints the variable
-echo "Jekyll_date: $jekyll_date"
+echo "Jekyll_date: $jekyll_date $jekyll_dat_time"
 echo ""
 
 # asks for title name to type in in terminal
@@ -68,6 +69,7 @@ echo " file_name: $jekyll_date-${title// /-}"
 echo "---" >> "$file_name.md"
 echo "layout: post" >> "$file_name.md"
 echo "title: $title" >> "$file_name.md"
+echo "date: $jekyll_date_time" >> "$file_name.md"
 echo "---" >> "$file_name.md"
 echo "" >> "$file_name.md"
 echo "$exerp" >> "$file_name.md"

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Ilikelinux is online
-date: 2016-12-07 13:00
+date: 2016-12-07 13:00:00 Z
+layout: post
 ---
 
 I Like Linux is up and running!

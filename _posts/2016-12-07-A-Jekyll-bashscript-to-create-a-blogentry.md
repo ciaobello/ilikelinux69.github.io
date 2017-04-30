@@ -1,7 +1,7 @@
 ---
-layout: post
 title: A Jekyll bashscript to create a blogentry
-date: 2016-12-07 17:00 
+date: 2016-12-07 17:00:00 Z
+layout: post
 comments: true
 ---
 

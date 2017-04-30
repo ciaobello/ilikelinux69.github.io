@@ -1,7 +1,7 @@
 ---
-layout: post
 title: New version of jekyll bash script
-date: 2016-12-09 19:30
+date: 2016-12-09 19:30:00 Z
+layout: post
 ---
 
 Some changes to shorten und style the script.

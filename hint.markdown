@@ -1,6 +1,7 @@
 ---
 title: hint
 date: 2017-04-30 14:42:00 Z
+permalink: "/hint/"
 layout: page
 ---
 

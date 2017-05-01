@@ -1,6 +1,6 @@
 ---
 title: hint
-date: 2017-04-30 14:42:00 Z
+date: 2017-04-30 11:42:00 -03:00
 permalink: "/hint/"
 layout: page
 ---

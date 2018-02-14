@@ -1,7 +1,7 @@
 ---
-layout: post
 title: How to change the keyboard layout in Busybox.
-date: 2018-02-14 14:22
+date: 2018-02-14 14:22:00 -02:00
+layout: post
 ---
 
 Create and change to a own .kmap

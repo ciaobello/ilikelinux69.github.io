@@ -17,10 +17,10 @@ In the terminal you type :
 busybox dumpkmap > yourkeymapfile.kmap
 ```
 
-
 whenever you like it you can load it with:
 
-```busybox loadkmap < yourkeymapfile.kmap
+```
+busybox loadkmap < yourkeymapfile.kmap
 ```
 
 

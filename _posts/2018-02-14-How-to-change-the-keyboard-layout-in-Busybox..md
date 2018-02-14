@@ -13,12 +13,15 @@ The only thing it needs, is a terminal with a working keyboard layout, witch you
 In the terminal you type :
 
 
-``` busybox dumpkmap > yourkeymapfile.kmap ```
+```
+busybox dumpkmap > yourkeymapfile.kmap
+```
 
 
 whenever you like it you can load it with:
 
-``` busybox loadkmap < yourkeymapfile.kmap ```
+```busybox loadkmap < yourkeymapfile.kmap
+```
 
 
 
